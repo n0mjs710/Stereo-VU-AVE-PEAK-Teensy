@@ -8,6 +8,9 @@ the average value display, and to generate decay for the peak display. The formu
 
 value += (new value - value)/FILTER CONSTANT
 
+MAX72 class for the MAX7221/MAX7219 display drivers available at:
+https://github.com/n0mjs710/MAX7219
+
 This work is licensed under the Creative Commons Attribution-ShareAlike
 3.0 Unported License.To view a copy of this license, visit
 http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to
